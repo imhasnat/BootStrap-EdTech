@@ -1,0 +1,19 @@
+/* Common Style */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.font-style {
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-color-h1 {
+    color: #4A4A4A;
+}
+
+.font-color-paragraph {
+    color: #777777;
+}
+
+.common-color {
+    background-color: #289BDE;
+}
