@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.font-color-h1 {
+.font-color {
     color: #4A4A4A;
 }
 
@@ -16,4 +16,10 @@
 
 .common-color {
     background-color: #289BDE;
+    border: none;
+    padding: 9px 25px;
+}
+
+.price-color {
+    color: #289BDE;
 }
