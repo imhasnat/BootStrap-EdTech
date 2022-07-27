@@ -23,3 +23,13 @@
 .price-color {
     color: #289BDE;
 }
+
+.footer-background {
+    background-color: #161616;
+}
+
+.icon {
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 0 .5rem;
+}
