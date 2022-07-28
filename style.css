@@ -47,6 +47,14 @@
     background-color: linear-gradient(0deg, #E8E8E8, #E8E8E8);
 }
 
+.star-color {
+    color: #FBBF24
+}
+
+.fade-star-color {
+    color: #FEF3C7
+}
+
 .elarning-background {
     background-color: #F4FAFD;
 }
