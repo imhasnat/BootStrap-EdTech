@@ -6,30 +6,39 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.font-color {
+.big-font-color {
     color: #4A4A4A;
 }
 
-.font-color-paragraph {
+.small-font-color {
     color: #777777;
 }
 
-.common-color {
+.button-color {
     background-color: #289BDE;
     border: none;
     padding: 9px 25px;
 }
 
-.price-color {
+.cost-color {
     color: #289BDE;
+}
+
+.banner-shadow {
+    filter: brightness(40%);
+}
+
+.banner-resize {
+    height: 100vh;
+    object-fit: cover;
 }
 
 .footer-background {
     background-color: #161616;
 }
 
-.icon {
-    color: whitesmoke;
+.social-icon {
+    color: white;
     font-size: 20px;
     padding: 0 .5rem;
 }
