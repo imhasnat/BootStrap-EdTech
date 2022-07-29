@@ -20,10 +20,12 @@
     padding: 9px 25px;
 }
 
+
 .cost-color {
     color: #289BDE;
 }
 
+/* Header Section */
 .banner-shadow {
     filter: brightness(40%);
 }
@@ -33,20 +35,17 @@
     object-fit: cover;
 }
 
-.footer-background {
-    background-color: #161616;
+/* E-learning section */
+.elarning-background {
+    background-color: #F4FAFD;
 }
 
-.social-icon {
-    color: white;
-    font-size: 20px;
-    padding: 0 .5rem;
-}
-
+/* Successfull student section */
 .border-color {
     background-color: linear-gradient(0deg, #E8E8E8, #E8E8E8);
 }
 
+/* Feedback section */
 .star-color {
     color: #FBBF24
 }
@@ -55,6 +54,13 @@
     color: #FEF3C7
 }
 
-.elarning-background {
-    background-color: #F4FAFD;
+/* Footer section */
+.footer-background {
+    background-color: #161616;
+}
+
+.social-icon {
+    color: white;
+    font-size: 20px;
+    padding: 0 .5rem;
 }
